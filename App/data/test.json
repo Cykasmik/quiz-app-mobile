@@ -1,0 +1,24 @@
+{
+  "question": {
+    "text": "How much does a Belgian Waffle cost?",
+    "response": [
+      {
+        "id": "1",
+        "answer": "$5.95",
+        "correct": "True"
+      },
+      {
+        "id": "2",
+        "answer": "$.95"
+      },
+      {
+        "id": "3",
+        "answer": "$3.95"
+      },
+      {
+        "id": "4",
+        "answer": "$7.95"
+      }
+    ]
+  }
+}
